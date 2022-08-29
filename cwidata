@@ -38,5 +38,29 @@
     "halfpriceY4": "3.3",
     "priceY5": "5.0",
     "halfpriceY5": "2.5"
+  },
+  {
+    "number": 2,
+    "route": "30A",
+    "destZ": "日落谷站",
+    "destY": "飛馬嶺",
+    "maxPZ": "1",
+    "priceZ1": "7.2",
+    "halfpriceZ1": "3.6",
+    "maxPY": "1",
+    "priceY1": "7.2",
+    "halfpriceY1": "3.6"
+  },
+  {
+    "number": 3,
+    "route": "30U",
+    "destZ": "貨櫃碼頭",
+    "destY": "鳳凰山轉車站",
+    "maxPZ": "1",
+    "priceZ1": "5.2",
+    "halfpriceZ1": "2.6",
+    "maxPY": "1",
+    "priceY1": "5.2",
+    "halfpriceY1": "2.6"
   }
 ]
