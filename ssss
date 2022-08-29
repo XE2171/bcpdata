@@ -24,5 +24,41 @@
     "maxPY": "1",
     "priceY1": "8.3",
     "halfpriceY1": "4.2"
+  },
+  {
+    "number": 2,
+    "route": "11A",
+    "destZ": "上湖",
+    "destY": "深山交易廣場",
+    "maxPZ": "1",
+    "priceZ1": "7.4",
+    "halfpriceZ1": "3.7",
+    "maxPY": "1",
+    "priceY1": "7.4",
+    "halfpriceY1": "3.7"
+  },
+  {
+    "number": 3,
+    "route": "701",
+    "destZ": "深山站",
+    "destY": "深山道",
+    "maxPZ": "1",
+    "priceZ1": "9.0",
+    "halfpriceZ1": "4.5",
+    "maxPY": "1",
+    "priceY1": "9.0",
+    "halfpriceY1": "4.5"
+  },
+  {
+    "number": 4,
+    "route": "702",
+    "destZ": "深山站",
+    "destY": "深山道",
+    "maxPZ": "1",
+    "priceZ1": "9.0",
+    "halfpriceZ1": "4.5",
+    "maxPY": "1",
+    "priceY1": "9.0",
+    "halfpriceY1": "4.5"
   }
 ]
